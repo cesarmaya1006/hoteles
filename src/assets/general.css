@@ -1,0 +1,10 @@
+.btn-sombra{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+button{
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+label.requerido:after {
+    content: ' *';
+    color: red;
+}
